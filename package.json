@@ -1,0 +1,8 @@
+{
+  "name": "free-ai-watermark-remover",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve static"
+  }
+}
